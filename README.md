@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gaurav Kamthe
+# 👋 Hi, I'm Saurav Kamthe
 
 ### 🐍 Python Developer | Django Developer | BCA Student | Problem Solver
 
