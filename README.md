@@ -4,13 +4,13 @@
 
 Welcome to my GitHub profile! 👋
 
-I'm a **BCA student and aspiring software developer** who enjoys building practical applications and learning new technologies. I mainly work with **Python, Django, SQL, and Linux**, and I'm continuously improving my **Data Structures & Algorithms** and problem-solving skills.
+I'm a **MCA student and aspiring software developer** who enjoys building practical applications and learning new technologies. I mainly work with **Python, Django, SQL, and Linux**, and I'm continuously improving my **Data Structures & Algorithms** and problem-solving skills.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BCA Student
+* 🎓 MCA Student
 * 💻 Interested in **Python Development & Web Development**
 * 🐍 Currently focusing on **Python & Django**
 * 🧠 Practicing **Data Structures & Algorithms**
