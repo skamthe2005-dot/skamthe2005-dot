@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saurav Kamthe
 
-### 🐍 Python Developer | Django Developer | BCA Student | Problem Solver
+### 🐍 Python Developer | Django Developer | MCA Student | Problem Solver
 
 Welcome to my GitHub profile! 👋
 
